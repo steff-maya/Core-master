@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="tv_loading">Cargando  datos</string>
+    <string name="titleServerError">Ups!</string>
+    <string name="subtitleServerError">
+        <![CDATA[
+            Algo sucedió en la carga
+        ]]>
+    </string>
+</resources>
